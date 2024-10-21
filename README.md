@@ -55,12 +55,7 @@ DOWNLOAD "Online Courses System Project"
 - Visit `http://localhost/online-course/admin/` in your browser to access the admin login.
 - Login to admin dashboard using credentials 'jeremiah' and 'jkaruri'.
 - Add, Delete or Update existing applicants and courses.
-- Once admin things are done sign-out and goto `http://localhost/online-course/` to access the voting system.
-
-## Screenshot
-Voting Interface![Voting Interface](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Opera%20Snapshot_2024-03-03_200245_localhost.png?raw=true)
-Admin Dashboard![Admin Dashboard](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Screenshot%202024-03-03%20173257.png?raw=true)
-Database Snapshot![Database Snapshot](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Screenshot%202024-03-03%20201439.png)
+- Once admin things are done sign-out and goto `http://localhost/online-course/`
 
 ## License
 
